@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "producto": "Sweater Popis",
+      "precio": "3290",
+      "precio_descuento": "2960",
+      "imgs": "./imgs/popis/popis1.jpg, ./imgs/popis/popis2.jpg, ./imgs/popis/popis3.jpg",
+      "colores": "coral, orquidea, celeste"
+    },
+    {
+      "id": 2,
+      "producto": "Remera Female",
+      "precio": "1690",
+      "imgs": "./imgs/female/female1.jpg, ./imgs/female/female2.jpg, ./imgs/female/female3.jpg, ./imgs/female/female4.jpg, ./imgs/female/female5.jpg",
+      "colores": "crudo"
+    }
+  ]
+}
